@@ -1,0 +1,21 @@
+{
+  "name": "AppGrid",
+  "url": "https://appgridmac.com/pricing/",
+  "description": "A Launchpad replacement for Mac. Arrange apps in folders and pages, move several at once, and save or restore layouts",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% off lifetime Direct Pro for up to five Macs ($12.50 USD before tax)",
+  "code": "BF2026",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 25,
+    "sale": 12.5,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-11-30",
+  "icon": "https://appgridmac.com/wp-content/uploads/2026/03/app-icon.png"
+}
